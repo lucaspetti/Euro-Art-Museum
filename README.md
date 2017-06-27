@@ -1,4 +1,4 @@
-#Euro Art Museum
+# Euro Art Museum
 
 The Euro Art Museum is a Virtual Reality App developed in Unity using C#.
 
